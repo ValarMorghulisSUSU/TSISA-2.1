@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Notebook\Desktop\Практика 2.1 Полупанова ЭУ-211\Header.h(45,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Практика 2.1 Полупанова ЭУ-211.vcxproj -> C:\Users\Notebook\Desktop\Практика 2.1 Полупанова ЭУ-211\Debug\Практика 2.1 Полупанова ЭУ-211.exe

@@ -1,0 +1,6 @@
+C:\Users\Ekaterina\Desktop\учеба\ТСиСА\Практика 2.1 Полупанова ЭУ-211\Debug\Практика 2.1 Полупанова ЭУ-211.vcxprojAssemblyReference.cache
+C:\Users\Ekaterina\Desktop\учеба\ТСиСА\Практика 2.1 Полупанова ЭУ-211\Debug\Практика 2.1 Полупанова ЭУ-211.exe
+C:\Users\Ekaterina\Desktop\учеба\ТСиСА\Практика 2.1 Полупанова ЭУ-211\Debug\Практика 2.1 Полупанова ЭУ-211.pdb
+C:\Users\Notebook\Desktop\Практика 2.1 Полупанова ЭУ-211\Debug\Практика 2.1 Полупанова ЭУ-211.vcxprojAssemblyReference.cache
+C:\Users\Notebook\Desktop\Практика 2.1 Полупанова ЭУ-211\Debug\Практика 2.1 Полупанова ЭУ-211.exe
+C:\Users\Notebook\Desktop\Практика 2.1 Полупанова ЭУ-211\Debug\Практика 2.1 Полупанова ЭУ-211.pdb
